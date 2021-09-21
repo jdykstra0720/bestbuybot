@@ -1,11 +1,7 @@
 How To Create An Automated Store Bot in Python
 Hello GitHub, I would like to share my method of creating a aggressive Bestbuy Bot in Python. I will be using Beautifulsoup4, Selenium, and Twilio in this script. Please continue reading this for instructions on how to set up bot.
 
-If you guys need instructions to set up Newegg Bot or Amazon Bot go to my Google Drive here.
 
-Newegg
-
-Amazon
 
 You can test bot with this URL.
 
